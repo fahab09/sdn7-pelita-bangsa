@@ -1,6 +1,6 @@
 <?php
-include "../main-page/header.php";
+include "../docs/header.php";
 include "../contact-page/cont-feature.php";
 include "../contact-page/email-form.php";
-include "../main-page/footer.php";
+include "../docs/footer.php";
 ?>
