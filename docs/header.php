@@ -49,9 +49,9 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="../main-page/index.php" class="nav-item nav-link active">Beranda</a>
-                <a href="../main-page/index.php#about" class="nav-item nav-link">Tentang Kami</a>
-                <a href="../main-page/index.php#gallery" class="nav-item nav-link">Berita dan Galeri</a>
+                <a href="../docs/index.php" class="nav-item nav-link active">Beranda</a>
+                <a href="../docs/index.php#about" class="nav-item nav-link">Tentang Kami</a>
+                <a href="../docs/index.php#gallery" class="nav-item nav-link">Berita dan Galeri</a>
                 <a href="../contact-page/contact.php" class="nav-item nav-link">Hubungi Kami</a>
             </div>
             <a href="../page-not-found/404.php" class="btn btn-primary py-4 px-lg-4 rounded-0 d-none d-lg-block">Pendaftaran<i class="fa fa-arrow-right ms-3"></i></a>
