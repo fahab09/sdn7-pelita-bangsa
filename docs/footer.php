@@ -26,8 +26,8 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Quick Links</h4>
-                    <a class="btn btn-link" href="../main-page/index.php#about">Tentang Kami</a>
-                    <a class="btn btn-link" href="../main-page/index.php#gallery">Berita dan Galeri</a>
+                    <a class="btn btn-link" href="../docs/index.php#about">Tentang Kami</a>
+                    <a class="btn btn-link" href="../docs/index.php#gallery">Berita dan Galeri</a>
                     <a class="btn btn-link" href="../contact-page/contact.php">Hubungi Kami</a>
                     <a class="btn btn-link" href="../page-not-found/404.php">Terms & Conditions</a>
                     <a class="btn btn-link" href="../page-not-found/404.php">FAQ</a>
